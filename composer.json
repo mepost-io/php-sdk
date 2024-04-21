@@ -1,0 +1,21 @@
+{
+    "name": "mepost/mepost-sdk-php",
+    "description": "A PHP SDK for the Mepost email service.",
+    "type": "library",
+    "require": {
+        "php": "^7.4|^8.0",
+        "guzzlehttp/guzzle": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mepost\\Sdk\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mepost",
+            "email": "info@mepost.io"
+        }
+    ],
+    "license": "MIT"
+}

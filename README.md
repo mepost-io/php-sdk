@@ -18,7 +18,7 @@ To install the `mepost-sdk` for PHP, you can use Composer. If you don't have Com
 Run the following command to install the SDK:
 
 ```bash
-composer require mepost/mepost-sdk-php
+composer require mepost/mepost-sdk
 ```
 
 ## Usage

@@ -1,5 +1,5 @@
 {
-    "name": "mepost/mepost-sdk-php",
+    "name": "mepost/mepost-sdk",
     "description": "A PHP SDK for the Mepost email service.",
     "type": "library",
     "require": {
